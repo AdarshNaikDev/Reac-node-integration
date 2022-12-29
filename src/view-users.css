@@ -1,0 +1,40 @@
+.list-container{
+    display: flex;
+    justify-content: space-around;
+
+    border-bottom: 1px solid skyblue;
+    
+}
+.name-data{
+    display: flex;
+    
+    width: 300px;
+}
+
+.age-data{
+    display: flex;
+    position: relative;
+    right: 70px;
+    width: 100px;
+
+}
+
+.edit-del{
+    position: relative;
+    top: 19px;
+    
+    
+}
+.edit-del button{
+    margin-left: 8px;
+
+}
+
+.header{
+    font-size: larger;
+}
+
+.ans{
+    color: #0014FF;
+    margin-left: 8px;
+}
